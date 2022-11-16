@@ -1,11 +1,11 @@
 # Princípios SOLID
 
-##S
+## S
 
-##O
+## O
 
-##L
+## L
 
-##I
+## I
 
-##D
+## D
